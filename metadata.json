@@ -1,0 +1,6 @@
+{
+  "name": "Tastai Safaris",
+  "description": "Excellence in Travel & Safari Experiences across East Africa: high-end customized safaris, beach getaways, cultural landmarks, and dynamic itinerary planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
