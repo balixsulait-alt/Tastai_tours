@@ -20,7 +20,7 @@ export const TOUR_PACKAGES: TourPackage[] = [
     priceUSD: 1250,
     rating: 4.9,
     reviewsCount: 48,
-    heroImage: 'https://images.unsplash.com/photo-1586861635167-e5223aadc9fe?auto=format&fit=crop&w=1600&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1591861849822-26ff3d8b3f0d?auto=format&fit=crop&w=1600&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1548858806-0fa980eb2156?auto=format&fit=crop&w=800&q=80', // Giant tortoise
       'https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80', // Clear kayak / Snorkeling
@@ -111,7 +111,7 @@ export const TOUR_PACKAGES: TourPackage[] = [
     priceUSD: 2450,
     rating: 5.0,
     reviewsCount: 39,
-    heroImage: 'https://images.unsplash.com/photo-1517825738774-7de9363ef735?auto=format&fit=crop&w=1600&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=1600&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=800&q=80', // Zebra migration
       'https://images.unsplash.com/photo-1620608518868-b7ebba0bad50?auto=format&fit=crop&w=800&q=80', // Lion pride
@@ -209,10 +209,10 @@ export const TOUR_PACKAGES: TourPackage[] = [
     priceUSD: 1850,
     rating: 4.8,
     reviewsCount: 33,
-    heroImage: 'https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?auto=format&fit=crop&w=1600&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1586348943529-beaae6c28db9?auto=format&fit=crop&w=1600&q=80',
     gallery: [
-      'https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?auto=format&fit=crop&w=800&q=80', // Gorilla closeup
-      'https://images.unsplash.com/photo-1581888227599-779811939961?auto=format&fit=crop&w=800&q=80', // Gorilla in bamboo forest
+      'https://images.unsplash.com/photo-1586348943529-beaae6c28db9?auto=format&fit=crop&w=800&q=80', // Gorilla closeup
+      'https://images.unsplash.com/photo-1561731216-c3a4d99437d5?auto=format&fit=crop&w=800&q=80', // Gorilla in bamboo forest
       'https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=800&q=80', // Misty forest canopy
     ],
     itinerary: [
@@ -287,7 +287,7 @@ export const TOUR_PACKAGES: TourPackage[] = [
     priceUSD: 1150,
     rating: 4.9,
     reviewsCount: 25,
-    heroImage: 'https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=1600&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1612178537253-bccd437b730e?auto=format&fit=crop&w=1600&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?auto=format&fit=crop&w=800&q=80',
       'https://images.unsplash.com/photo-1534951009808-766178b47a4f?auto=format&fit=crop&w=800&q=80',
@@ -350,11 +350,11 @@ export const TOUR_PACKAGES: TourPackage[] = [
     priceUSD: 1450,
     rating: 4.9,
     reviewsCount: 18,
-    heroImage: 'https://images.unsplash.com/photo-1540573133-75b52b41a2a5?auto=format&fit=crop&w=1600&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=1600&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80',
       'https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1540573133-75b52b41a2a5?auto=format&fit=crop&w=800&q=80'
+      'https://images.unsplash.com/photo-1611689342806-0863752e5077?auto=format&fit=crop&w=800&q=80'
     ],
     itinerary: [
       {
@@ -377,7 +377,7 @@ export const TOUR_PACKAGES: TourPackage[] = [
           'Observing nests, vocal calls, social structures, and chimpanzees moving in low trees',
           'Afternoon swamp walk in Bigodi Wetlands Sanctuary for birds and monkeys'
         ],
-        image: 'https://images.unsplash.com/photo-1540573133-75b52b41a2a5?auto=format&fit=crop&w=800&q=80'
+        image: 'https://images.unsplash.com/photo-1611689342806-0863752e5077?auto=format&fit=crop&w=800&q=80'
       },
       {
         day: 3,
@@ -412,7 +412,7 @@ export const TOUR_PACKAGES: TourPackage[] = [
     priceUSD: 1350,
     rating: 4.8,
     reviewsCount: 22,
-    heroImage: 'https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=1600&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1615437975026-65b63dfb2a9a?auto=format&fit=crop&w=1600&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1620608518868-b7ebba0bad50?auto=format&fit=crop&w=800&q=80',
       'https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=800&q=80',
@@ -483,7 +483,7 @@ export const EAST_AFRICAN_LANDMARKS: EastAfricanLandmark[] = [
     country: 'Tanzania',
     coordinates: { x: 48, y: 55 },
     description: 'A massive UNESCO heritage site hosting the legendary Great Wildebeest Migration - over 1.5 million mammals on a continuous loop.',
-    image: 'https://images.unsplash.com/photo-1517825738774-7de9363ef735?auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=600&q=80',
     highlight: 'Great Wildebeest & Zebra migration loops and high lion density.',
     bestTimeToVisit: 'June to October (Dry crossings) & January to March (Calving)',
     elevationOrFeature: 'Continuous grasslands over 14,750 km²'
@@ -494,7 +494,7 @@ export const EAST_AFRICAN_LANDMARKS: EastAfricanLandmark[] = [
     country: 'Uganda',
     coordinates: { x: 22, y: 48 },
     description: 'An ancient mist-veiled forest canopy containing over half of the entire remaining global population of endangered Mountain Gorillas.',
-    image: 'https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1586348943529-beaae6c28db9?auto=format&fit=crop&w=600&q=80',
     highlight: 'Close quarter mountain gorilla trekking and diverse unique birds.',
     bestTimeToVisit: 'December to February & June to August',
     elevationOrFeature: 'Prehistoric thick rainforest, 1,160m to 2,600m altitude'
@@ -505,7 +505,7 @@ export const EAST_AFRICAN_LANDMARKS: EastAfricanLandmark[] = [
     country: 'Tanzania',
     coordinates: { x: 88, y: 72 },
     description: 'A magical Indian ocean coastline blending Arabesque palaces, Spice fields, Aldabra tortoises, and blue snorkeling paradises.',
-    image: 'https://images.unsplash.com/photo-1586861635167-e5223aadc9fe?auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1591861849822-26ff3d8b3f0d?auto=format&fit=crop&w=600&q=80',
     highlight: 'Clear kayaking, wild dolphin swims, Nakupenda sandbanks, and historical Stone Town tours.',
     bestTimeToVisit: 'All year round (avoid heavy rain in April-May)',
     elevationOrFeature: 'Warm water reefs over white coral sandy beaches'
@@ -516,7 +516,7 @@ export const EAST_AFRICAN_LANDMARKS: EastAfricanLandmark[] = [
     country: 'Kenya',
     coordinates: { x: 55, y: 45 },
     description: 'The golden crown of Kenyan conservation, famous for the Mara River crossings, majestic cheetah squads, and local Maasai moran homesteads.',
-    image: 'https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1549366021-9f761d040a94?auto=format&fit=crop&w=600&q=80',
     highlight: 'Stunning hot-air ballooning and close-quarters cheetah hunts.',
     bestTimeToVisit: 'July to October (Migration season)',
     elevationOrFeature: 'Classic African acacia savannah grassland'
@@ -538,7 +538,7 @@ export const EAST_AFRICAN_LANDMARKS: EastAfricanLandmark[] = [
     country: 'Uganda',
     coordinates: { x: 30, y: 36 },
     description: 'Primate capital of the world housing over 1,500 chimpanzees and 13 distinct monkey species across wild tropical forests.',
-    image: 'https://images.unsplash.com/photo-1540573133-75b52b41a2a5?auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1611689342806-0863752e5077?auto=format&fit=crop&w=600&q=80',
     highlight: 'Chimpanzee Habituation walks and monkey swamp trails.',
     bestTimeToVisit: 'June to September & December to February',
     elevationOrFeature: 'Ancient moist evergreen forest canopy'
@@ -549,7 +549,7 @@ export const EAST_AFRICAN_LANDMARKS: EastAfricanLandmark[] = [
     country: 'Uganda',
     coordinates: { x: 19, y: 52 },
     description: 'Scenic savannah plains famous for the rare, unique spectacle of resident tree-climbing lions resting in sycamore fig tree branches.',
-    image: 'https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1620608518868-b7ebba0bad50?auto=format&fit=crop&w=600&q=80',
     highlight: 'Tree-climbing lions tracking and Kazinga Channel boat safari.',
     bestTimeToVisit: 'January to February & June to August',
     elevationOrFeature: 'Acacia woodlands and river channels'
@@ -560,7 +560,7 @@ export const EAST_AFRICAN_LANDMARKS: EastAfricanLandmark[] = [
     country: 'Uganda',
     coordinates: { x: 28, y: 32 },
     description: 'Witness the expansive Nile River squeeze into a tight 7-meter gorge before exploding into a deafening 43-meter vertical waterfall.',
-    image: 'https://images.unsplash.com/photo-1596715611244-947e4b584762?auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1589553416260-f586c1b3be97?auto=format&fit=crop&w=600&q=80',
     highlight: 'Scenic delta boat cruises, giant Nile crocodiles, and massive elephant herds.',
     bestTimeToVisit: 'January to March & June to September',
     elevationOrFeature: 'The world’s most powerful single waterfall'
@@ -571,7 +571,7 @@ export const EAST_AFRICAN_LANDMARKS: EastAfricanLandmark[] = [
     country: 'Tanzania',
     coordinates: { x: 68, y: 60 },
     description: 'The spectacular Roof of Africa: the tallest free-standing mountain in the world, climbing through five unique ecological niches to glaciers.',
-    image: 'https://images.unsplash.com/photo-1609137144814-681b858f0cf4?auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1580824456624-7b3d09e5e178?auto=format&fit=crop&w=600&q=80',
     highlight: 'Hiking to the snowy peak of Uhuru point (5,895m) without technical ropes.',
     bestTimeToVisit: 'January to March & July to October',
     elevationOrFeature: 'Snowy volcanic peak at 5,895 meters above sea level'
